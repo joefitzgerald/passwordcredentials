@@ -1,6 +1,7 @@
 module github.com/joefitzgerald/passwordcredentials
 
-go 1.21
-toolchain go1.23.7
+go 1.23.0
 
-require golang.org/x/oauth2 v0.28.0
+toolchain go1.24.2
+
+require golang.org/x/oauth2 v0.29.0
